@@ -1,0 +1,15 @@
+C:\Users\Liidia\Desktop\KTA\CASE\veebirakenduste_turvalisus\hackthissite_programming-1\Hackthissite_programming_1_Ilves\bin\Debug\net6.0\Hackthissite_programming_1_Ilves.exe
+C:\Users\Liidia\Desktop\KTA\CASE\veebirakenduste_turvalisus\hackthissite_programming-1\Hackthissite_programming_1_Ilves\bin\Debug\net6.0\Hackthissite_programming_1_Ilves.deps.json
+C:\Users\Liidia\Desktop\KTA\CASE\veebirakenduste_turvalisus\hackthissite_programming-1\Hackthissite_programming_1_Ilves\bin\Debug\net6.0\Hackthissite_programming_1_Ilves.runtimeconfig.json
+C:\Users\Liidia\Desktop\KTA\CASE\veebirakenduste_turvalisus\hackthissite_programming-1\Hackthissite_programming_1_Ilves\bin\Debug\net6.0\Hackthissite_programming_1_Ilves.dll
+C:\Users\Liidia\Desktop\KTA\CASE\veebirakenduste_turvalisus\hackthissite_programming-1\Hackthissite_programming_1_Ilves\bin\Debug\net6.0\Hackthissite_programming_1_Ilves.pdb
+C:\Users\Liidia\Desktop\KTA\CASE\veebirakenduste_turvalisus\hackthissite_programming-1\Hackthissite_programming_1_Ilves\obj\Debug\net6.0\Hackthissite_programming_1_Ilves.csproj.AssemblyReference.cache
+C:\Users\Liidia\Desktop\KTA\CASE\veebirakenduste_turvalisus\hackthissite_programming-1\Hackthissite_programming_1_Ilves\obj\Debug\net6.0\Hackthissite_programming_1_Ilves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liidia\Desktop\KTA\CASE\veebirakenduste_turvalisus\hackthissite_programming-1\Hackthissite_programming_1_Ilves\obj\Debug\net6.0\Hackthissite_programming_1_Ilves.AssemblyInfoInputs.cache
+C:\Users\Liidia\Desktop\KTA\CASE\veebirakenduste_turvalisus\hackthissite_programming-1\Hackthissite_programming_1_Ilves\obj\Debug\net6.0\Hackthissite_programming_1_Ilves.AssemblyInfo.cs
+C:\Users\Liidia\Desktop\KTA\CASE\veebirakenduste_turvalisus\hackthissite_programming-1\Hackthissite_programming_1_Ilves\obj\Debug\net6.0\Hackthissite_programming_1_Ilves.csproj.CoreCompileInputs.cache
+C:\Users\Liidia\Desktop\KTA\CASE\veebirakenduste_turvalisus\hackthissite_programming-1\Hackthissite_programming_1_Ilves\obj\Debug\net6.0\Hackthissite_programming_1_Ilves.dll
+C:\Users\Liidia\Desktop\KTA\CASE\veebirakenduste_turvalisus\hackthissite_programming-1\Hackthissite_programming_1_Ilves\obj\Debug\net6.0\refint\Hackthissite_programming_1_Ilves.dll
+C:\Users\Liidia\Desktop\KTA\CASE\veebirakenduste_turvalisus\hackthissite_programming-1\Hackthissite_programming_1_Ilves\obj\Debug\net6.0\Hackthissite_programming_1_Ilves.pdb
+C:\Users\Liidia\Desktop\KTA\CASE\veebirakenduste_turvalisus\hackthissite_programming-1\Hackthissite_programming_1_Ilves\obj\Debug\net6.0\Hackthissite_programming_1_Ilves.genruntimeconfig.cache
+C:\Users\Liidia\Desktop\KTA\CASE\veebirakenduste_turvalisus\hackthissite_programming-1\Hackthissite_programming_1_Ilves\obj\Debug\net6.0\ref\Hackthissite_programming_1_Ilves.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Hackthissite_programming_1_Ilves/1.0.0": {
+        "runtime": {
+          "Hackthissite_programming_1_Ilves.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hackthissite_programming_1_Ilves/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
